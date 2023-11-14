@@ -1,0 +1,30 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: aqua;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.grid-item {
+  border: 1px solid #ccc;
+  padding: 16px;
+}
+
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.list-item {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 8px;
+}
+
+
+
+

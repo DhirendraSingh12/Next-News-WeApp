@@ -1,6 +1,6 @@
-# This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Getting Started
 
 #### Step 1: Install Node.js
 ###### Download and install Node.js from here.
@@ -44,7 +44,7 @@
 ![News_App6](https://github.com/DhirendraSingh12/Next-News-WeApp/assets/98521894/9ba84a48-144c-4ac2-8440-d9e8923d9894)
 
 
-### This will install the necessary dependencies for the project.
+###### This will install the necessary dependencies for the project.
 
 
 
